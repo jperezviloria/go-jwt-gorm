@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98d14bae-ff6c-4400-88f4-d3367e82b763" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mcKIP66hDGw7TSWOS53FWCctvH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestIntegral2 in github.com/jperezviloria/go-jwt-gorm/handler">
+    <configuration name="go build github.com/jperezviloria/go-jwt-gorm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-jwt-gorm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/jperezviloria/go-jwt-gorm" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-jwt-gorm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/jperezviloria/go-jwt-gorm" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetUserByUsername in github.com/jperezviloria/go-jwt-gorm/handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-jwt-gorm" />
+      <working_directory value="$PROJECT_DIR$/handler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/jperezviloria/go-jwt-gorm/handler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetUserByUsername\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIntegral in github.com/jperezviloria/go-jwt-gorm/handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-jwt-gorm" />
+      <working_directory value="$PROJECT_DIR$/handler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/jperezviloria/go-jwt-gorm/handler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestIntegral\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIntegral2 in github.com/jperezviloria/go-jwt-gorm/handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-jwt-gorm" />
+      <working_directory value="$PROJECT_DIR$/handler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/jperezviloria/go-jwt-gorm/handler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestIntegral2\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestIntegral2 in github.com/jperezviloria/go-jwt-gorm/handler" />
+        <item itemvalue="Go Test.TestIntegral in github.com/jperezviloria/go-jwt-gorm/handler" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestGetUserByUsername in github.com/jperezviloria/go-jwt-gorm/handler" />
+        <item itemvalue="Go Build.go build github.com/jperezviloria/go-jwt-gorm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
